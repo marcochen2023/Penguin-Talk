@@ -1,27 +1,213 @@
 [
   {
     "id": "1",
-    "displayName": "CharacterBang 角色生成器",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_CharacterBang.jpg",
-    "link": "https://callmygod.com/teleport.php?app=97"
+    "displayName": "Aerilonde",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_1.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_1.json"
   },
   {
     "id": "2",
-    "displayName": "Mini Wardrobe Lite 小衣櫥",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_MiniWardrobeLite.jpg",
-    "link": "https://callmygod.com/teleport.php?app=99"
+    "displayName": "Anindita",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_2.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_2.json"
   },
   {
     "id": "3",
-    "displayName": "Outline Generator",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_OutlineGenerator.jpg",
-    "link": "https://novelpd.online/nopd/"
+    "displayName": "Dewi Kencana Wulan Sari",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_3.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_3.json"
   },
   {
     "id": "4",
-    "displayName": "Game Save Novel Generator",
-    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/InfiniteTales/main/logo/logo_GSFNG.jpg",
-    "link": "https://callmygod.com/teleport.php?app=88"
+    "displayName": "Tú Anh",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_4.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_4.json"
+  },
+  {
+    "id": "5",
+    "displayName": "牧心蘭",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_5.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_5.json"
+  },
+  {
+    "id": "6",
+    "displayName": "白田優",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_6.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_6.json"
+  },
+  {
+    "id": "7",
+    "displayName": "Mariposa",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_7.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_7.json"
+  },
+  {
+    "id": "8",
+    "displayName": "Oindrila",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_8.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_8.json"
+  },
+  {
+    "id": "9",
+    "displayName": "Laurentia",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_9.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_9.json"
+  },
+  {
+    "id": "10",
+    "displayName": "柳瑟霜",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_10.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_10.json"
+  },
+  {
+    "id": "11",
+    "displayName": "Narvîn",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_11.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_11.json"
+  },
+  {
+    "id": "12",
+    "displayName": "Waldrun",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_12.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_12.json"
+  },
+  {
+    "id": "13",
+    "displayName": "Shinjini",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_13.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_13.json"
+  },
+  {
+    "id": "14",
+    "displayName": "Silvanus",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_14.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_14.json"
+  },
+  {
+    "id": "15",
+    "displayName": "Yemisi",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_15.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_15.json"
+  },
+  {
+    "id": "16",
+    "displayName": "Mariposa",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_16.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_16.json"
+  },
+  {
+    "id": "17",
+    "displayName": "Efsun",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_17.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_17.json"
+  },
+  {
+    "id": "18",
+    "displayName": "安東紀子",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_18.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_18.json"
+  },
+  {
+    "id": "19",
+    "displayName": "宵織",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_19.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_19.json"
+  },
+  {
+    "id": "20",
+    "displayName": "湘漣",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_20.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_20.json"
+  },
+  {
+    "id": "21",
+    "displayName": "Cienfuegos",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_21.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_21.json"
+  },
+  {
+    "id": "22",
+    "displayName": "Jardel",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_22.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_22.json"
+  },
+  {
+    "id": "23",
+    "displayName": "Jari Al-Fahd",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_23.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_23.json"
+  },
+  {
+    "id": "24",
+    "displayName": "Raiwin",
+    "Gender": "Genderless",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_24.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_24.json"
+  },
+  {
+    "id": "25",
+    "displayName": "Thana",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_25.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_25.json"
+  },
+  {
+    "id": "26",
+    "displayName": "hiên Ân",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_26.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_26.json"
+  },
+  {
+    "id": "27",
+    "displayName": "Tonal",
+    "Gender": "Genderless",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_27.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_27.json"
+  },
+  {
+    "id": "28",
+    "displayName": "Trần Vĩ Phong",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_28.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_28.json"
+  },
+  {
+    "id": "29",
+    "displayName": "颯牙",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_29.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_29.json"
+  },
+  {
+    "id": "30",
+    "displayName": "蕭霽塵",
+    "Gender": "male",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/avatar_30.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/Character_30.json"
   }
 ]
 
