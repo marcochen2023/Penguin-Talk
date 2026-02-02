@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "displayName": "gemini-2.5-flash-image-preview",
+    "provider": "google",
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image-preview:generateContent"
+  },
+  {
+    "id": "2",
+    "displayName": "gemini-2.5-flash-image",
+    "provider": "google",
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-image:generateContent"
+  },
+  {
+    "id": "3",
+    "displayName": "gemini-3-pro-image-preview",
+    "provider": "google",
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro-image-preview:generateContent"
+  },
+  {
+    "id": "4",
+    "displayName": "gemini-3-flash-image-preview",
+    "provider": "google",
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-image-preview:generateContent"
+  }
+]
