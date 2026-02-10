@@ -278,6 +278,41 @@
     "Gender": "male",
     "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/1/avatar_30.jpg",
     "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/1/Character_30.json"
+  },
+  {
+    "id": "41",
+    "displayName": "真田 梨々香",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/301/avatar_01.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/301/Character_01.json"
+  },
+  {
+    "id": "42",
+    "displayName": "真田芽依",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/301/avatar_02.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/301/Character_02.json"
+  },
+  {
+    "id": "43",
+    "displayName": "深田 結菜",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/301/avatar_03.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/301/Character_03.json"
+  },
+  {
+    "id": "44",
+    "displayName": "霧野 凜",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/301/avatar_04.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/301/Character_04.json"
+  },
+  {
+    "id": "45",
+    "displayName": "早川麻百合",
+    "Gender": "female",
+    "imageUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/images/301/avatar_05.jpg",
+    "jsonUrl": "https://raw.githubusercontent.com/marcochen2023/Penguin-Talk/main/CharacterBang/json/301/Character_05.json"
   }
 ]
 
