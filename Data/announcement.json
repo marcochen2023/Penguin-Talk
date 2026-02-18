@@ -2,7 +2,7 @@
     {
         "date": "2026-2-18",
         "title": "停用相關LLM模型",
-        "content": "因應Google Gemini在2026 年 2 月 17 日停用相關LLM模型<br>(gemini-2.5-flash-preview-09-25)<br>目前已經沒有提供在Canvas環境下使用無KEY調用的模型,<br>所以現在開始需要用輸入API KEY的方式來驅動更新的LLM模型,<br>大部分LLM模型還是可以使用免費的API KEY調用(Free tier OK),<br>朋友們可以申請一個免費的API KEY來使用大部分應用."
+        "content": "因應Google Gemini在2026 年 2 月 17 日停用相關LLM模型<br>(gemini-2.5-flash-preview-09-25)<br>目前已經沒有提供在Canvas環境下使用無KEY調用的模型,<br>所以現在開始需要用輸入API KEY的方式來驅動更新的LLM模型(右上方設定圖標),<br>大部分LLM模型還是可以使用免費的API KEY調用(Free tier OK),<br>朋友們可以申請一個免費的API KEY來使用大部分應用."
     },
     {
         "date": "2026-1-16",
