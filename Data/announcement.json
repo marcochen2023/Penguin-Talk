@@ -1,0 +1,12 @@
+[
+    {
+        "date": "2026-2-18",
+        "title": "停用相關LLM模型",
+        "content": "因應Google Gemini在2026 年 2 月 17 日停用相關LLM模型 (gemini-2.5-flash-preview-09-25) 目前已經沒有提供在Canvas環境下使用無KEY調用的模型, 所以現在開始需要用輸入API KEY的方式來驅動更新的LLM模型, 大部分LLM模型還是可以使用免費的API KEY調用(Free tier OK), 朋友們可以申請一個免費的API KEY來使用大部分應用."
+    },
+    {
+        "date": "2026-1-16",
+        "title": "Google的優惠政策取消,Nano Banana繪圖模型已無法免費使用...",
+        "content": "因為Google的API串接模型調整, 原本可以免費調用的 \"gemini-2.5-flash-image-preview\"繪圖模型API已經取消, 改成新的\"gemini-2.5-flash-image\"繪圖模型, 並且改成一定要用付費訂閱Tier 1的API KEY才能調用, 所以無限世界之前發布將近80% 使用\"gemini-2.5-flash-image-preview\"繪圖模型的APP全面癱瘓...<br><br>包含所有無限世界系列遊戲和\"梨々香的秘密\", 以及所有使用免費\"gemini-2.5-flash-image-preview\"繪圖模型的APP.<br><br>目前團隊正在想辦法改版, 也目前付費訂閱的帳號使用Tier 1的API KEY, 才能調用新的\"gemini-2.5-flash-image\"繪圖模型. 請大家有心理準備.<br><br>Google的優惠政策取消實在是不可抗力... "
+    }
+]
