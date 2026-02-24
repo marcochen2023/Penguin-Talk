@@ -1,8 +1,32 @@
 [
   {
+    "id": "moonshotai/Kimi-K2.5",
+    "displayName": "Kimi-K2.5(0.5/2.8)",
+    "model": "moonshotai/Kimi-K2.5",
+    "endpoint": "https://api.together.xyz/v1/chat/completions",
+    "type": "chat",
+    "pricing": "0.5/2.8"
+  },
+  {
     "id": "MiniMaxAI/MiniMax-M2.5",
     "displayName": "MiniMaxAI/MiniMax-M2.5",
     "model": "MiniMaxAI/MiniMax-M2.5",
+    "endpoint": "https://api.together.xyz/v1/chat/completions", 
+    "type": "chat",
+    "pricing": "1M/1.2"
+  },
+  {
+    "id": "Qwen/Qwen3.5-397B-A17B",
+    "displayName": "Qwen3.5-397B-A17B(0.6/3.6)",
+    "model": "Qwen/Qwen3.5-397B-A17B",
+    "endpoint": "https://api.together.xyz/v1/chat/completions", 
+    "type": "chat",
+    "pricing": "0.6/3.6"
+  },
+  {
+    "id": "mistralai/Mistral-Small-24B-Instruct-2501",
+    "displayName": "Mistral-Small-24B-Instruct-2501(效果佳,無擋,繪圖無擋最佳+)",
+    "model": "mistralai/Mistral-Small-24B-Instruct-2501",
     "endpoint": "https://api.together.xyz/v1/chat/completions", 
     "type": "chat",
     "pricing": "1M/1.2"
@@ -16,51 +40,11 @@
     "pricing": "Free"
   },
   {
-    "id": "Qwen/Qwen3-235B-A22B-Instruct-2507-tput",
-    "displayName": "Qwen3-235B-A22B-Instruct-2507-tput",
-    "model": "Qwen/Qwen3-235B-A22B-Instruct-2507-tput",
+    "id": "Liquid-AI/LFM2-24B-A2B-preview",
+    "displayName": "LFM2-24B-A2B-preview(Free)",
+    "model": "Liquid-AI/LFM2-24B-A2B-preview",
     "endpoint": "https://api.together.xyz/v1/chat/completions", 
-    "type": "chat",
-    "pricing": "1M/0.6"
-  },
-  {
-    "id": "mistralai/Mistral-Small-24B-Instruct-2501",
-    "displayName": "Mistral-Small-24B-Instruct-2501(效果佳,無擋,繪圖無擋最佳+)",
-    "model": "mistralai/Mistral-Small-24B-Instruct-2501",
-    "endpoint": "https://api.together.xyz/v1/chat/completions", 
-    "type": "chat",
-    "pricing": "1M/1.2"
-  },
-  {
-    "id": "Qwen/QwQ-32B",
-    "displayName": "QwQ-32B(效果佳,無擋,延伸思考很煩,間隔30秒)",
-    "model": "Qwen/QwQ-32B",
-    "endpoint": "https://api.together.xyz/v1/chat/completions", 
-    "type": "chat",
-    "pricing": "1M/1.2"
-  },
-  {
-    "id": "Qwen3-235B-A22B-fp8-tput",
-    "displayName": "Qwen3-235B-(無擋,延伸思考很煩)",
-    "model": "Qwen/Qwen3-235B-A22B-fp8-tput",
-    "endpoint": "https://api.together.xyz/v1/chat/completions",
     "type": "chat",
     "pricing": "Free"
-  },
-  {
-    "id": "Qwen/Qwen2.5-72B-Instruct-Turbo",
-    "displayName": "Qwen2.5-72B-Instruct-Turbo(有擋)",
-    "model": "Qwen/Qwen2.5-72B-Instruct-Turbo",
-    "endpoint": "https://api.together.xyz/v1/chat/completions", 
-    "type": "chat",
-    "pricing": "1M/1.2"
-  },
-  {
-    "id": "Qwen/Qwen2.5-7B-Instruct-Turbo",
-    "displayName": "Qwen2.5-7B-Instruct-Turbo(效果OK,無擋,但不連戲)",
-    "model": "Qwen/Qwen2.5-7B-Instruct-Turbo",
-    "endpoint": "https://api.together.xyz/v1/chat/completions", 
-    "type": "chat",
-    "pricing": "1M/1.2"
   }
 ]
