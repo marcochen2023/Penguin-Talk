@@ -1,0 +1,13 @@
+[
+  {"id":"minimax/minimax-m2.5","displayName":"Minimax-m2.5","provider":"openrouter"},
+  {"id":"moonshotai/kimi-k2.5","displayName":"Kimi-k2.5","provider":"openrouter"},
+  {"id":"deepseek/deepseek-v3.2","displayName":"Deepseek-v3.2","provider":"openrouter"},
+  {"id":"z-ai/glm-5","displayName":"GLM-5","provider":"openrouter"},
+  {"id":"x-ai/grok-4.1-fast","displayName":"Grok-4.1-fast","provider":"openrouter"},
+  {"id":"anthropic/claude-sonnet-4.5","displayName":"Claude-sonnet-4.5","provider":"openrouter"},
+  {"id":"anthropic/claude-opus-4.6","displayName":"Claude-opus-4.6","provider":"openrouter"},
+  {"id":"anthropic/claude-sonnet-4.6","displayName":"Claude-sonnet-4.6","provider":"openrouter"},
+  {"id":"openai/gpt-5.2-chat","displayName":"GPT-5.2-chat","provider":"openrouter"},
+  {"id":"openai/gpt-5.2","displayName":"GPT-5.2","provider":"openrouter"},
+  {"id":"openai/gpt-5.3-chat","displayName":"GPT-5.3-chat","provider":"openrouter"}
+]

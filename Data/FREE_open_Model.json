@@ -1,0 +1,8 @@
+[
+  {"id":"arcee-ai/trinity-large-preview:free","displayName":"trinity-large-preview","provider":"openrouter"},
+  {"id":"stepfun/step-3.5-flash:free","displayName":"step-3.5-flash","provider":"openrouter"},
+  {"id":"deepseek/deepseek-chat-v3-0324:free","displayName":"DeepSeek V3","provider":"openrouter"},
+  {"id":"meta-llama/llama-4-maverick:free","displayName":"Llama 4 Maverick","provider":"openrouter"}
+]
+
+
