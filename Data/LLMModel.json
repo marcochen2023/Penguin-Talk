@@ -19,9 +19,9 @@
   },
   {
     "id": "3",
-    "displayName": "gemini-3-flash-preview",
+    "displayName": "gemini-3.5-flash",
     "provider": "google",
-    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent",
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent",
     "maxTokens": 1000000,
     "temperature": 0.7,
     "topP": 0.95
@@ -46,9 +46,9 @@
   },
   {
     "id": "6",
-    "displayName": "gemini-3.1-flash-lite-preview",
+    "displayName": "gemini-3.1-flash-lite",
     "provider": "google",
-    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent",
+    "apiEndpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent",
     "maxTokens": 1000000,
     "temperature": 0.7,
     "topP": 0.95
